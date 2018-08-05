@@ -1,0 +1,6 @@
+class Floor:
+    """
+    TODO
+    """
+
+    pass
